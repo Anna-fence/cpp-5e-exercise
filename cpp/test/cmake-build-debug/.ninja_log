@@ -1,0 +1,14 @@
+# ninja log v5
+0	234	6868127993926837	CMakeFiles/test.dir/test.cpp.obj	48233e2afd189f38
+0	196	6868134298484442	CMakeFiles/lovewl.dir/lovewl.cpp.obj	109d902bb6f9a749
+0	93	6868137067615299	build.ninja	945da59e0abed81a
+5	237	6868127993946838	CMakeFiles/test.dir/helloworld.cpp.obj	4c3e0207979847ae
+2	77	6868134233811806	test.exe	afaeffbd640af28c
+2	202	6868129278932796	CMakeFiles/test.dir/test2.cpp.obj	eb46406aae53f8dc
+49	120	6868136031774638	lovewl.exe	3fd9139b5fe21723
+2	191	6868132059797906	CMakeFiles/test.dir/lovewl.cpp.obj	a128578ccb41e91a
+0	232	6868135438416153	CMakeFiles/test2.dir/test2.cpp.obj	2f9796fdeba9e54a
+233	309	6868135439149888	test2.exe	52f78216e84da180
+2	196	6868136628864117	CMakeFiles/lovewl.dir/xnhu.cpp.obj	ee7731b407b3e082
+0	210	6868137149212518	CMakeFiles/xnhu.dir/xnhu.cpp.obj	f4101b3d8c50d75b
+211	289	6868137149948182	xnhu.exe	c13a8462f3370ffd

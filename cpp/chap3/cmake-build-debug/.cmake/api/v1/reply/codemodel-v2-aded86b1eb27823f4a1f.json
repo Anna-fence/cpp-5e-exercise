@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chap3-3Ex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chap3-3Ex-Debug-9b500140154f58cb647d.json",
+					"name" : "Chap3-3Ex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-10-Debug-f6eed61d70becc49398f.json",
+					"name" : "Ex3-10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-12-Debug-a3fdefc5360a25eafb39.json",
+					"name" : "Ex3-12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-13-Debug-6b53bae2a4fb145cf5fd.json",
+					"name" : "Ex3-13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-14-Debug-5843495b07f04144843a.json",
+					"name" : "Ex3-14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-15-Debug-c1d083bf5bb91e0ace9e.json",
+					"name" : "Ex3-15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-17-Debug-52c09403380b24489158.json",
+					"name" : "Ex3-17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-20-Debug-69e4961c9a99e7619384.json",
+					"name" : "Ex3-20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-21-Debug-233c13d8d0f55e89d775.json",
+					"name" : "Ex3-21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-22-Debug-9dbb1dc4d49c40e1653b.json",
+					"name" : "Ex3-22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-23-Debug-e80142396474b5641156.json",
+					"name" : "Ex3-23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-24-Debug-ee975118cae2ed33719d.json",
+					"name" : "Ex3-24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-25-Debug-62af77cedc89d1fb0500.json",
+					"name" : "Ex3-25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-28-Debug-e5fcbadeb8dceef42019.json",
+					"name" : "Ex3-28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-31-Debug-aab9a24dbf607757c370.json",
+					"name" : "Ex3-31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex3-33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex3-33-Debug-5d4969e20942896aa993.json",
+					"name" : "Ex3-33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chap3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chap3-Debug-c2d15fa4187dcb61d240.json",
+					"name" : "chap3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chap3ex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chap3ex-Debug-d40f7c0bfb5867a41cbd.json",
+					"name" : "chap3ex",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/experiment/C++/cpp/chap3/cmake-build-debug",
+		"source" : "D:/experiment/C++/cpp/chap3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

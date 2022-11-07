@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="chap3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/experiment/C++/cpp/chap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chap3">
+				<Option output="D:/experiment/C++/cpp/chap3/cmake-build-debug/chap3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/experiment/C++/cpp/chap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 chap3"/>
+					<CompileFile command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chap3/fast">
+				<Option output="D:/experiment/C++/cpp/chap3/cmake-build-debug/chap3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/experiment/C++/cpp/chap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 chap3/fast"/>
+					<CompileFile command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/experiment/C++/cpp/chap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/experiment/C++/cpp/chap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/sftwr4studty/CLion 2022.2.3/bin/mingw/bin/mingw32-make.exe -f &quot;D:/experiment/C++/cpp/chap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/experiment/C++/cpp/chap3/3-12.cpp">
+			<Option target="chap3"/>
+		</Unit>
+		<Unit filename="D:/experiment/C++/cpp/chap3/main.cpp">
+			<Option target="chap3"/>
+		</Unit>
+		<Unit filename="D:/experiment/C++/cpp/chap3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
