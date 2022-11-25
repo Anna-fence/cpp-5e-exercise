@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc8f1972-0f99-4705-bcfa-ed241f9a6e8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/C++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap3/Ex3-35.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap3/Ex3-36.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap3/Ex3-39.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap3/Ex3-41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap3/Ex3-43.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/.idea/chap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-13.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-21.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-22.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-23.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-28.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-29.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-31.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap4/Ex4-6.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../chap3/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-aded86b1eb27823f4a1f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-07T12-24-49-0363.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../chap3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../chap3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../chap3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../chap3/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../chap3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap3/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../chap3/cmake-build-debug/build.ninja" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2Hi0XeQRGaWq70aA2nYkonOqtUh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc8f1972-0f99-4705-bcfa-ed241f9a6e8c" name="Changes" comment="" />
+      <created>1668752638022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668752638022</updated>
+      <workItem from="1668752640680" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
